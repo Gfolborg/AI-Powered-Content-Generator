@@ -10,7 +10,7 @@ This Intelligent Automation (IA) workflow is designed for Marketing Managers at 
 <h2>Environments and Technologies Used</h2>
 
 <ul>
-    <li>Make.com (Workflow Automation/Orchestration)</li>
+    <li>n8n (Workflow Automation/Orchestration)</li>
     <li>Google Sheets (Approval Gate/Data Logging)</li>
     <li>Gemini AI (Research, Drafting, Image Prompt Generation, Iteration)</li>
     <li>Google Trends API (Real-time Topic Research)</li>
