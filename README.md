@@ -4,7 +4,7 @@
 
 <h1>AI-Powered Content Generation Engine</h1>
 <p>
-This Intelligent Automation (IA) workflow is designed for Marketing Managers at the simulated Texas Cardiology Clinic of Houston. The system achieves hands-off, timely content creation tailored to the healthcare industry. It orchestrates multiple AI agents and APIs for research, drafting, and asset generation, enforcing strict Human-in-the-Loop (HITL) controls to ensure brand safety and quality before social publication.
+This Intelligent Automation (IA) workflow is designed for marketing teams (simulated cardiology clinic) that handles end-to-end content production with minimal human intervention. The system orchestrates multiple AI agents and APIs for research, drafting, and asset generation — while applying conditional Human-in-the-Loop (HITL) checkpoints to maintain brand safety and quality.
 </p>
 
 <h2>Environments and Technologies Used</h2>
