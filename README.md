@@ -4,7 +4,7 @@
 
 <h1>AI-Powered Content Generation Engine</h1>
 <p>
-This Intelligent Automation (IA) workflow is designed for marketing teams (simulated cardiology clinic) that handles end-to-end content production with minimal human intervention. The system orchestrates multiple AI agents and APIs for research, drafting, and asset generation, while applying conditional Human-in-the-Loop (HITL) checkpoints to maintain brand safety and quality.
+This AI Automated workflow is designed for marketing teams (simulated cardiology clinic) that handles end-to-end content production with minimal human intervention. The system orchestrates multiple AI agents and APIs for research, drafting, and asset generation, while applying conditional Human-in-the-Loop (HITL) checkpoints to maintain brand safety and quality.
 </p>
 
 <h2>Environments and Technologies Used</h2>
